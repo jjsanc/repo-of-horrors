@@ -1,5 +1,6 @@
 ---
 title: Horror Movies
+date: 2026-09-29
 ---
 ### Main Categories
 
@@ -10,6 +11,7 @@ title: Horror Movies
 - [[horror-subgenres/index|Horror Subgenres]]
 - [[movie-history/index|Movie History]]
 - [[theme-concepts/index|Theme and Concepts]]
+
 
 
 
