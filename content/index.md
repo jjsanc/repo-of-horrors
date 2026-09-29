@@ -1,6 +1,24 @@
 ---
 title: Template for Knowledge Base Docs Websites
 ---
+## Main Categories
+
+- [[character-monsters/index|Character and Monsters]]
+- [[cultural-impact/index|Cultural Impact]]
+- [[famous-movies/index|Famous Movies]]
+- [[filmmaking-techniques/index|Filmmaking Techniques]]
+- [[horror-subgenres/index|Horror Subgenres]]
+- [[movie-history/index|Movie History]]
+- [[theme-concepts/index|Theme and Concepts]]
+
+
+
+
+
+
+
+
+
 ## The index page
 
 This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
