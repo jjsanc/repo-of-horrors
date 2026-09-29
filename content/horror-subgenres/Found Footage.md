@@ -26,7 +26,7 @@ Characters often carry cameras themselves and record what is happening around th
 
 #### The Blair Witch Project
 
-![[blair.png]]
+![Movie Poster](blair.png)
 
 The Blair Witch Project is a 1999 psychological horror film about three student filmmakers who vanish in the woods of Maryland while trying to make a documentary about a local myth.
 [The Blair Witch Project]([Found Footage Horror | Film and Media Theory | Fiveable](https://fiveable.me/film-and-media-theory/key-terms/found-footage-horror))

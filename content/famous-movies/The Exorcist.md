@@ -12,7 +12,7 @@ The Exorcist follows a desperate mother who enlists two Catholic priests to perf
 
 The 1973 film The Exorcist is famous because it shattered cultural taboos, terrified global audiences with realistic practical effects, and broke new ground for the horror genre at the Academy Awards.
 
-![[exorcist.png]]
+![The Exorcist movie poster](exorcist.png)
 
 [The Exorcist]([Why The Exorcist Still Haunts Us, 50 Years Later](https://www.syfy.com/syfy-wire/why-the-exorcist-still-haunts-us-50-years-later))
 

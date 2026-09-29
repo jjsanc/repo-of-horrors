@@ -20,7 +20,7 @@ Horror movies often place characters in locations where it is difficult to get h
 
 In the Night House (2001), loneliness and solitude serve as the emotional core and breeding ground for grief that consumes the protagonist.
 
-![[night.png]]
+![Movie Poster Night House](night.png)
 
 ### Related Pages
 

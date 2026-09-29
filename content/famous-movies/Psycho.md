@@ -16,7 +16,7 @@ Hitchcock cast major star Janet Leigh as Marion Crane, only to brutally murder h
 
 Norman Bates is a fictional, deeply troubled motel manager and serial killer with a severe split personality, shaped by an abusive, dominant relationship with his mother.
 
-![[norman.png]]
+![Picture of Norman Bates](norman.png)
 #### Horror Techniques
 
 Hitchcock uses several techniques that became important to horror filmmaking:
