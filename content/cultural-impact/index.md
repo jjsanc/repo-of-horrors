@@ -11,4 +11,3 @@ This section explores how horror has developed beyond entertainment and became p
 
 - [[Horror Fandom]]
 - [[Horror Movies is Pop Culture]]
-- 

@@ -1,5 +1,6 @@
 ---
 title: Horror Subgenres
+date: 2026-09-29
 ---
 ## Related Categories
 

@@ -20,12 +20,17 @@ Norman Bates is a fictional, deeply troubled motel manager and serial killer wit
 
 Hitchcock uses several techniques that became important to horror filmmaking:
 
-- light and shadows - Dark interiors and dramatic shadows create an unsettling atmosphere
+- [[Lighting and Color|light]] and shadows - Dark interiors and dramatic shadows create an unsettling atmosphere
 - editing - fast cuts make the shower scene feel chaotic and violent.
-- Psychological fear - much of the terror comes from the characters behavior rather than supernatural creatures.
+- [[Trauma and Psychological Fear|Psychological]] fear - much of the terror comes from the characters behavior rather than supernatural creatures.
 [Psycho]([Beginner’s Guide to Alfred Hitchcock: Psycho (1960) — Talk Film Society](https://talkfilmsociety.com/columns/beginners-guide-to-alfred-hitchcock-psycho-1960))
 
 ### Related Pages
 
 - [[Halloween]]
 - [[The Exorcist]]
+- [[Camera Angles]]
+- [[Lighting and Color]]
+- [[Fear of the Unknown]]
+- [[Horror Movies is Pop Culture]]
+

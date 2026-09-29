@@ -8,7 +8,7 @@ Horror movies have created some of the most recognizable villains in film histor
 
 #### Michael Myers
 
-Michael Myers is the masked killer from the Halloween franchise. He first appeared in John Carpenter's Halloween (1978) and quickly became one of the most recognizable figures in the slasher genre.
+Michael Myers is the masked killer from the [[Halloween]] franchise. He first appeared in John Carpenter's Halloween (1978) and quickly became one of the most recognizable figures in the slasher genre.
 
 Michael is known for his blank white mask, dark clothing, silence, and relentless pursuit of his victims. His lack of dialogue is an important part of what makes the character frightening.
 
@@ -26,3 +26,7 @@ Ghostface is the masked killer identity used throughout the Scream franchise. Un
 ### Related Topics
 
 - [[Zombies]]
+- [[Horror Movies is Pop Culture]]
+- [[Slasher]]
+- [[Horror Fandom]]
+- [[Death and Mortality]]

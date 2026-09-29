@@ -24,3 +24,6 @@ The Exorcist is a good example of the conflict between good and evil.
 - [[Isolation and Loneliness]]
 - [[Fear of the Unknown]]
 - [[Trauma and Psychological Fear]]
+- [[Halloween]]
+- [[The Exorcist]]
+

@@ -29,3 +29,7 @@ The Universal monsters remain an important part of horror movie history because 
 ### Related Pages
 
 - [[Silent Horror]]
+- [[famous-movies/index|Famous Movies]]
+- [[Iconic Horror Villains]]
+- [[Fear of the Unknown]]
+- [[Trauma and Psychological Fear]]

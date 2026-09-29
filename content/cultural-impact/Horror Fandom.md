@@ -4,7 +4,7 @@ date: 2026-09-29
 ---
 ### Horror Fandom
 
-Horror fandom is a large community built around people's shared interest in horror movies, characters, monsters and the culture surrounding the genre. Horror fans engage with movies in different ways from watching and discussing films to attending conventions.
+Horror fandom is a large community built around people's shared interest in [[Horror Movies is Pop Culture|horror]] movies, characters, monsters and the culture surrounding the genre. Horror fans engage with movies in different ways from watching and discussing films to attending conventions.
 
 #### Fan Communities
 
@@ -20,4 +20,8 @@ The relationship between horror fandom and popular culture is visible through re
 ### Related Pages
 
 - [[Horror Movies is Pop Culture]]
+- [[Iconic Horror Villains]]
+- [[Psycho]]
+- [[Halloween]]
+- [[The Exorcist]]
 

@@ -4,7 +4,7 @@ date: 2026-09-29
 ---
 ### The Exorcist (1973)
 
-The Exorcist (1973) is a supernatural horror film directed by William Friedkin.
+The Exorcist (1973) is a [[Supernatural Horror]] film directed by William Friedkin.
 
 The Exorcist follows a desperate mother who enlists two Catholic priests to perform an exorcism when her 12-year-old daughter becomes violently possessed by a demonic entity.
 
@@ -16,3 +16,6 @@ The 1973 film The Exorcist is famous because it shattered cultural taboos, terri
 ### Related Pages
  - [[Halloween]]
  - [[Psycho]]
+ - [[Good vs Evil]]
+ - [[Trauma and Psychological Fear]]
+ - [[Fear of the Unknown]]

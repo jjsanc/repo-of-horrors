@@ -4,7 +4,7 @@ date: 2026-09-29
 ---
 ### Halloween
 
-The 1978 classic Slasher Horror film Halloween follows escaped mental patient Michael Myers as he returns to his hometown to stalk a teenage babysitter.
+The 1978 classic [[Slasher]] Horror film Halloween follows escaped mental patient Michael Myers as he returns to his hometown to stalk a teenage babysitter.
 
 ##### Why Is It Famous
 
@@ -25,3 +25,8 @@ In John Carpenter's original vision, Michael has no rational motive, justificati
 
 - [[The Exorcist]]
 - [[Psycho]]
+- [[Camera Angles]]
+- [[Iconic Horror Villains]]
+- [[Horror Fandom]]
+- [[Practical Effects]]
+

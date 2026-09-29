@@ -22,3 +22,10 @@ Romero's Dawn of the Dead expanded the zombie concept and used a shopping mall a
 [Dawn of the Dead Review]([‘Dawn of the Dead’ (1978) Review - ScreenAge Wasteland](https://screenagewasteland.com/dawn-of-the-dead-1978-review/))
 ### Related Pages
  - [[Iconic Horror Villains]]
+ - [[References]]
+ - [[Horror Fandom]]
+ - [[Horror Movies is Pop Culture]]
+ - [[Practical Effects]]
+ - [[Trauma and Psychological Fear]]
+ - [[Isolation and Loneliness]]
+

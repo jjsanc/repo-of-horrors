@@ -29,3 +29,6 @@ Because you cannot see the threat, the horror feels limitless and unique to ever
 - [[Trauma and Psychological Fear]]
 - [[Good vs Evil]]
 - [[Isolation and Loneliness]]
+- [[The Exorcist]]
+- [[Universal Monsters Era]]
+

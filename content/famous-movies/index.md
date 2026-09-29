@@ -8,3 +8,6 @@ This section explores the most famous and acclaimed horror movies of all time sp
 
 ### Topics
 
+- [[Halloween]]
+- [[Psycho]]
+- [[The Exorcist]]

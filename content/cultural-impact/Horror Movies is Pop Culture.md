@@ -23,4 +23,9 @@ Horror's influence can be seen beyond the movie theater. Its characters, imagery
 ### Related Pages
 
 - [[Horror Fandom]]
+- [[Iconic Horror Villains]]
+- [[Halloween]]
+- [[Psycho]]
+- [[The Exorcist]]
+
 

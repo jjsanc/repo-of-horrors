@@ -24,3 +24,6 @@ These films explored different forms of horror.
 ### Related Pages
 
 - [[Universal Monsters Era]]
+- [[Camera Angles]]
+- [[Practical Effects]]
+- [[Iconic Horror Villains]]

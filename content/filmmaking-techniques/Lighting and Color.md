@@ -18,3 +18,5 @@ Horror filmmakers use low-key lighting and high-contrast color palettes to manip
 
 - [[Practical Effects]]
 - [[Camera Angles]]
+- [[Psycho]]
+- [[Halloween]]

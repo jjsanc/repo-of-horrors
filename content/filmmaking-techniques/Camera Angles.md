@@ -18,4 +18,7 @@ Horror movies use specific camera angles and framing choices to create tension, 
 
 - [[Lighting and Color]]
 - [[Practical Effects]]
+- [[Psycho]]
+- [[Halloween]]
+- [[Horror Movies is Pop Culture]]
 

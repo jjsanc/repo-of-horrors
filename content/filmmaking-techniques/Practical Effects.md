@@ -18,3 +18,5 @@ Practical effects in horror movies rely on physical, tangible methods on set to 
 
 - [[Camera Angles]]
 - [[Lighting and Color]]
+- [[Halloween]]
+- [[The Exorcist]]
