@@ -2,6 +2,60 @@
 title: Horror Movies
 date: 2026-09-29
 ---
+## Horror movies
+
+I like how horror movies often reflect what people are afraid of during a particular time. For example, older horror films focused on monsters, death, and supernatural while later films mostly focused on war, nuclear weapons and technology. 
+
+#### Famous Horror Movies
+Explore some of the most well-known and influential films of all time.
+
+- [[Halloween]]
+- [[Psycho]]
+- [[The Exorcist]]
+
+#### Characters and Monsters
+Learn about the villains, creatures and monsters that have become part of Horror.
+
+- [[Iconic Horror Villains]]
+- [[Zombies]]
+
+#### Filmmaking Techniques
+Explore the techniques filmmakers use to create suspense, fear and tension
+
+- [[Camera Angles]]
+- [[Lighting and Color]]
+- [[Practical Effects]]
+
+
+#### Movie History
+Follow the development of horror movies from early cinema to modern films.
+
+- [[Silent Horror]]
+- [[Universal Monsters Era]]
+
+#### Theme and Concepts 
+Explore the ideas and themes that appear throughout horror movies.
+
+- [[Death and Mortality]]
+- [[Fear of the Unknown]]
+- [[Good vs Evil]]
+- [[Trauma and Psychological Fear]]
+- [[Isolation and Loneliness]]
+
+#### Cultural Impact
+learn how horror movies have influenced society, entertainment and pop culture.
+
+- [[Horror Fandom]]
+- [[Horror Movies is Pop Culture]]
+
+
+#### Horror Subgenres
+learn of the different subgenres that horror has to offer and try not to get scared.
+
+- [[Found Footage]]
+- [[Slasher]]
+- [[Supernatural Horror]]
+
 ### Main Categories
 
 - [[character-monsters/index|Character and Monsters]]
