@@ -10,10 +10,10 @@ Isolation and loneliness are common themes in horror movies. When characters are
 Horror movies often place characters in locations where it is difficult to get help. This works by exploring how the human mind breaks when stripped of meaningful connection.
 
 #### Some common examples are:
-•	being alone in a remote house
-•	getting stranded in the wilderness 
-•	losing contact with family members 
-•	being trapped somewhere with no way out
+- being alone in a remote house
+- getting stranded in the wilderness 
+- losing contact with family members 
+- being trapped somewhere with no way out
 
 #### Example: The Night House
 

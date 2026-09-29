@@ -11,10 +11,10 @@ The unknown is scary because our imagination can sometimes make things seem wors
 
 ### Some common ways horror movies use the unknown are:
 
-•	Dark rooms where character cannot see
-•	Strange noise or unexplained events
-•	Monsters that are hidden or shown briefly
-•	Isolated locations like the middle of the sea
+- Dark rooms where character cannot see
+- Strange noise or unexplained events
+- Monsters that are hidden or shown briefly
+- Isolated locations like the middle of the sea
 
 Even though horror movies have changed over the years, the fear of not knowing what is coming remains an effective way to scare an audience.
 

@@ -9,9 +9,9 @@ Death is a common theme in horror movies because it is something everyone has to
 
 Characters might be trying to escape a killer, survive a monster or avoid something supernatural. This keeps the audience wondering who will survive and who might not.
 
-•	Characters are often placed in dangerous situations
-•	Death can happen suddenly
-•	The possibility of dying makes the character choices more important.
+- Characters are often placed in dangerous situations
+- Death can happen suddenly
+- The possibility of dying makes the character choices more important.
 
 ### Why Death makes Horror Scary
 
