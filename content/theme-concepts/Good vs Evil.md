@@ -14,9 +14,7 @@ Horror movies often have a clear difference between the characters trying to sur
 
 For me, this theme makes horror more interesting because it gives the character a reason to keep fighting even when things seem hopeless. It also makes me wonder how far someone would go to protect themselves or the people they care about. 
 
-#### Example: The Exorcist
 
-The Exorcist is a good example of the conflict between good and evil. 
 
 ### Related Pages
 

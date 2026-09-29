@@ -22,6 +22,7 @@ Psychological horror can be scary because it asks the audience questions about w
 
 Hereditary shows psychological fear can come from grief, guilt, family relationships and fear that something terrible is beyond your control.
 
+![[hereditary.png]]
 ### Related Pages
 
 - [[Fear of the Unknown]]
