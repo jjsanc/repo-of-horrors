@@ -16,6 +16,7 @@ Instead of relying on blood and jump scares, the movie builds primal terror thro
 
 In John Carpenter's original vision, Michael has no rational motive, justification, or deep explanation. He represents the abstract embodiment of pure evil. 
 
+![[halloween.png]]
 #### Horror Techniques
 
 - The unknown - Michael's lack of explanation makes him more frightening.
