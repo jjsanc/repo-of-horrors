@@ -18,7 +18,7 @@ The main figure is usually a human or human-like murderer who hunts the other ch
 
 #### Signature Weapons
 
-- Michael Myers - kitchen [[Practical Effects|knife]]
+- Michael Myers - kitchen knife
 - Jason Voorhees - machete
 - Ghostface - knife
 
