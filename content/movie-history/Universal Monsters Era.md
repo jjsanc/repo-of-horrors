@@ -24,6 +24,8 @@ The 1941 classic horror film The Wolf Man follows Larry Talbot (Lon Chaney Jr.) 
 
 The Universal monsters remain an important part of horror movie history because they helped transform monsters into characters with their own stories and struggles.
 
+![[monster.png]]
+
 [List of Universal Monsters]([Complete List of Universal Monsters Movies (1923-1960) — Monster Complex ™](https://www.monstercomplex.com/blog/complete-universal-monsters))
 
 ### Related Pages
