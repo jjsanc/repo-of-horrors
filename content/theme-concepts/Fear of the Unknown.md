@@ -1,5 +1,6 @@
 ---
 title: Fear of the Unknown
+date: 2026-09-29
 ---
 # Fear of the unknown
 

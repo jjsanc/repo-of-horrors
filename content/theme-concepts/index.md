@@ -1,5 +1,6 @@
 ---
 title: Theme and Concepts
+date: 2026-09-29
 ---
 This section explores some of the main ideas and fears that Horror movies use to create suspense.
 

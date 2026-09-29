@@ -1,5 +1,6 @@
 ---
 title: Trauma and Psychological Fear
+date: 2026-09-29
 ---
 ### Trauma and Psychological Fear
 

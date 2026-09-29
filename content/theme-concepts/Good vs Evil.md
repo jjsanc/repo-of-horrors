@@ -1,5 +1,6 @@
 ---
 title: Good vs Evil
+date: 2026-09-29
 ---
 ### Good vs. Evil
 

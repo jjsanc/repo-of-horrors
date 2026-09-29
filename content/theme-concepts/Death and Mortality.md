@@ -1,5 +1,6 @@
 ---
 title: Death and Mortality
+date: 2026-09-29
 ---
 ## Death and mortality
 
