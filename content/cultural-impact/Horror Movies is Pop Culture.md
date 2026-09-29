@@ -12,7 +12,7 @@ Horror television has helped bring the genre to larger audiences through shows t
 
 #### Horror and Halloween
 
-Horror and Halloween have become closely connected in American popular culture. Halloween provides the opportunity for people to experience horror through costumes, decorations, haunted houses and scary movies.
+Horror and Halloween have become closely connected in American popular culture. Halloween provides the opportunity for people to experience horror through costumes, decorations, haunted houses and scary [[famous-movies/index|movies]].
 
 #### Cultural Impact
 

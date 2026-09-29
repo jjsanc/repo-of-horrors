@@ -4,7 +4,7 @@ date: 2026-09-29
 ---
 # Fear of the unknown
 
-The fear of the unknown is a major theme in horror movies because people are often scared of things they cannot see, understand, or predict. Sometimes, not knowing what is hiding in the dark can be scarier than seeing the monster.
+The fear of the unknown is a major theme in horror movies because people are often scared of things they cannot see, understand, or predict. Sometimes, not knowing what is [[Supernatural Horror|hiding]] in the dark can be scarier than seeing the monster.
 
 ### Why is the Unknown so Scary?
 

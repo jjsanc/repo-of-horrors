@@ -4,7 +4,7 @@ date: 2026-09-29
 ---
 ### Silent Horror
 
-Silent horror generally refers to early horror cinema from the silent film era (late 1890s to late 1920s) that relied on visuals, shadows, and acting rather than spoken dialogue or synchronized sound.
+Silent horror generally refers to early horror cinema from the silent film era (late 1890s to late 1920s) that relied on visuals, [[Lighting and Color|shadows]] , and acting rather than spoken dialogue or synchronized sound.
 
 ##### Visual Storytelling
 

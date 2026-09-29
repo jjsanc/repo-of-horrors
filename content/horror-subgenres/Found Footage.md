@@ -7,7 +7,7 @@ date: 2026-09-29
 Found footage horror is a cinematic technique where the story is told through recovered video or audio recordings made by the characters.
 
 #### Core Characteristics
-- First-person perspective: Events unfold directly through the characters' handheld cameras, phones, or security feeds.
+- First-person perspective: Events unfold directly through the characters' handheld [[Camera Angles|cameras]], phones, or security feeds.
 - Illusion of reality: Shaky movements, natural low-light settings, and abrupt cutoffs mimic real, unedited archives.
 - Immersive dread: Viewers feel trapped alongside the victims rather than watching safely from an outside lens
 

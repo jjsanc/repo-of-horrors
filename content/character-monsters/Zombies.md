@@ -10,7 +10,7 @@ Zombies are one of the most recognizable creatures in horror. They are usually p
 
 One of the most important movies in zombie cinema came with George A. Romero's Night of the *Living Dead* (1968).
 
-The film also demonstrated how horror could address social concerns. Zombie movies became associated not only with scares and violence but also with themes such as fear, isolation and survival.
+The film also demonstrated how horror could address social concerns. Zombie movies became associated not only with scares and violence but also with themes such as [[Fear of the Unknown|fear]], isolation and survival.
 
 #### Dawn of the Dead
 

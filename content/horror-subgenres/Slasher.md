@@ -4,7 +4,7 @@ date: 2026-09-29
 ---
 ## Slasher Horror
 
-A slasher film is a horror subgenre featuring a masked or anonymous killer who systematically stalks and murders an ensemble cast of victims, typically using sharp or bladed tools.
+A [[Halloween|slasher]] film is a horror subgenre featuring a masked or anonymous killer who systematically stalks and murders an ensemble cast of victims, typically using sharp or bladed tools.
 
 #### Common Elements of Slasher Movies
 
@@ -18,7 +18,7 @@ The main figure is usually a human or human-like murderer who hunts the other ch
 
 #### Signature Weapons
 
-- Michael Myers - kitchen knife
+- Michael Myers - kitchen [[Practical Effects|knife]]
 - Jason Voorhees - machete
 - Ghostface - knife
 

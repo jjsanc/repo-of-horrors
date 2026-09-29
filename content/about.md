@@ -24,5 +24,5 @@ For me, horror is interesting because it can be scary and entertaining, but it c
 
 #### Sources
 
-I used different sources throughout this project. You can find the sources I used on the References page.
+I used different sources throughout this project. You can find the sources I used on the [[References]] page.
 

@@ -13,6 +13,7 @@ Horror fans connect through both in-person and online communities. Social media 
 #### Horror Collectibles
 Collecting is another important part of horror fandom. Fans collect posters, DVDs, figures, masks, clothing and other memorabilia.
 
+![[collect.png]]
 #### Horror Fandom and Popular Culture
 
 The relationship between horror fandom and popular culture is visible through recognizable characters and imagery.

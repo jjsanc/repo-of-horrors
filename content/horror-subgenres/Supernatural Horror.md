@@ -12,11 +12,11 @@ Supernatural horror is a horror subgenre that focuses on frightening events caus
 
 Some supernatural horror focuses on demons and evil entities that take control of people
 Examples
-- the Exorcist (1973)
+- [[The Exorcist]] (1973)
 - The Conjuring (2013)
 - The Exorcism of Emily Rose (2005)
 
-The Unknown
+### The Unknown
 
 Supernatural horror is often used uncertainly to create fear. This allows filmmakers to build suspense by slowly revealing information about the supernatural threat.
 
@@ -24,3 +24,8 @@ Supernatural horror is often used uncertainly to create fear. This allows filmma
 
 - [[Slasher]]
 - [[Found Footage]]
+- [[Fear of the Unknown]]
+- [[Death and Mortality]]
+- [[Found Footage]]
+- [[Isolation and Loneliness]]
+- [[Trauma and Psychological Fear]]
