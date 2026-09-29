@@ -1,7 +1,7 @@
 ---
 title: Template for Knowledge Base Docs Websites
 ---
-## Main Categories
+### Main Categories
 
 - [[character-monsters/index|Character and Monsters]]
 - [[cultural-impact/index|Cultural Impact]]
