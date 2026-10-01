@@ -23,7 +23,8 @@ Even though horror movies have changed over the years, the fear of not knowing w
 
 Because you cannot see the threat, the horror feels limitless and unique to every viewer.
 
-![The unknown](fear.png)
+![[unknown.pdf]]
+
 ### Related Pages
 
 - [[Death and Mortality]]
